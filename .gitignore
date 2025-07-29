@@ -1,15 +1,5 @@
-# dependencies
-node_modules/
-
-# environment variables
 .env
-.env.*
-
-# build files
-dist/
-build/
-
-# system junk
+node_modules/
+/.env.local
 .DS_Store
-*.log
-.cache/
+
