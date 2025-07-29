@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.*
+
+# build files
+dist/
+build/
+
+# system junk
+.DS_Store
+*.log
+.cache/
